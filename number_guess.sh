@@ -49,3 +49,4 @@ while true; do
 done
 
 echo "Debug: Starting game logic..."
+# This script runs a number guessing game using PostgreSQL
