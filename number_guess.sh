@@ -50,3 +50,4 @@ done
 
 echo "Debug: Starting game logic..."
 # This script runs a number guessing game using PostgreSQL
+echo "Game initialized. Secret number is set." # Debug message
