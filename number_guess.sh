@@ -48,3 +48,4 @@ while true; do
   fi
 done
 
+echo "Debug: Starting game logic..."
