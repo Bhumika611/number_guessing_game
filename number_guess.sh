@@ -52,3 +52,4 @@ echo "Debug: Starting game logic..."
 # This script runs a number guessing game using PostgreSQL
 echo "Game initialized. Secret number is set." # Debug message
 # Prompt user for username and check if they exist in the database
+# Start the guessing loop until the correct number is guessed
